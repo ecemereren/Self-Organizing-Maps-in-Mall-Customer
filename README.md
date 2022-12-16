@@ -12,3 +12,5 @@ Alışveriş merkezinin sahibi sizsiniz ve [Hedef Müşteriler] ile kolayca yak�
 
 Gözlem: 
 İki sınıfa (Erkek, Kadın) kabaca eşit olarak dağılmış 200 gözlemimiz var. Ayrıca Yaş, Gelir ve Puan özniteliklerinin maksimum değerlerinin aynı büyüklükte olduğunu görüyoruz, bu nedenle kendi kendini organize eden harita modelimizi oluştururken normalleştirmemek sorun olmayacak.
+
+Müşteri segmentasyonu için kendi kendini organize eden bir harita modeli oluşturacağız.Harita modelini oluştururken  Kohonen paketini kullanacağız.Kohonen paketi, SOM'ların oluşturulmasını ve görselleştirilmesini kolaylaştıran, R'de iyi belgelenmiş bir pakettir.
